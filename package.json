@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "dependencies": {
+    "chrome-remote-interface": "^0.32.2"
+  }
+}
